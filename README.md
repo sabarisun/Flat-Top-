@@ -83,7 +83,7 @@ plt.show()
 ![flat top](https://github.com/user-attachments/assets/5285795e-275d-4203-b202-e8ea228028a9)
 
 # Hardware experiment output waveform.
-
+![WhatsApp Image 2025-05-10 at 15 57 34_e044f318](https://github.com/user-attachments/assets/c02355b7-a7d4-4bf8-bba9-16ef56b840c2)
 
 # Results
 
