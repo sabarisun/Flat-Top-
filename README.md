@@ -82,8 +82,9 @@ plt.show()
 # Output Waveform
 ![flat top](https://github.com/user-attachments/assets/5285795e-275d-4203-b202-e8ea228028a9)
 
+# Hardware experiment output waveform.
+
+
 # Results
 
 Thus the Flat top sampling is performed using python.
-
-# Hardware experiment output waveform.
